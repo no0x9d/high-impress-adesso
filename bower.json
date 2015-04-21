@@ -1,0 +1,14 @@
+{
+  "name": "high-impress-adesso",
+  "version": "0.0.0",
+  "authors": [
+    "Christoph Hoffmann <Christoph.Hoffmann@adesso.de>"
+  ],
+  "description": "Additional template in adesso AG corporate design for high-impress, a HTML5, CSS & JS presentation framework. Build ontop of the great impress.js",
+  "main": "adesso-theme.html",
+  "dependencies": {
+    "marked": "~0.3.3",
+    "polymer": "Polymer/polymer#0.5",
+    "high-impress": "~0.5.1"
+  }
+}
